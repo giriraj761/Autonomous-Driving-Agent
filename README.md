@@ -1,7 +1,7 @@
 # Autonomous-Driving-Agent
 KIIT University 6th semester minor project 
 
-__TEAM__ /n
+__TEAM__
 ATHARVA RATHOD
 ANURAG PANDEY
 B.VARUN RAO
